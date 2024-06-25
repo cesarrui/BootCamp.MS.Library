@@ -1,0 +1,25 @@
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.deps.json
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.pdb
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.csproj.AssemblyReference.cache
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.AssemblyInfoInputs.cache
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.AssemblyInfo.cs
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.csproj.CoreCompileInputs.cache
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\refint\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.pdb
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\ref\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.deps.json
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.pdb
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.csproj.AssemblyReference.cache
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.AssemblyInfoInputs.cache
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.AssemblyInfo.cs
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.csproj.CoreCompileInputs.cache
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.sourcelink.json
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\refint\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\Bootcamp.MS.Library.Domain.pdb
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Domain\obj\Debug\net8.0\ref\Bootcamp.MS.Library.Domain.dll

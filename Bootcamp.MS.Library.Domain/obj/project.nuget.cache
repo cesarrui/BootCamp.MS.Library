@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aa015I7CztIcQptAAgGkklCLMZcqVZo8KQz8Q/eidU4gP40wszhHAoZFtdeJI/bHjMl4f3x+6AZPkuVjtGS5aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar.ruiz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

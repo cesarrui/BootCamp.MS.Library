@@ -1,0 +1,31 @@
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.deps.json
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.dll
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.pdb
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.pdb
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.csproj.AssemblyReference.cache
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.AssemblyInfo.cs
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.3CC1B418.Up2Date
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.dll
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\refint\Bootcamp.MS.Library.Infrastructure.dll
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.pdb
+C:\Bootcamp\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\ref\Bootcamp.MS.Library.Infrastructure.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.deps.json
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.pdb
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\bin\Debug\net8.0\Bootcamp.MS.Library.Domain.pdb
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.csproj.AssemblyReference.cache
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.AssemblyInfo.cs
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.sourcelink.json
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.3CC1B418.Up2Date
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\refint\Bootcamp.MS.Library.Infrastructure.dll
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\Bootcamp.MS.Library.Infrastructure.pdb
+C:\Bootcamp githun\BootCamp.MS.Library\Bootcamp.MS.Library.Infrastructure\obj\Debug\net8.0\ref\Bootcamp.MS.Library.Infrastructure.dll
