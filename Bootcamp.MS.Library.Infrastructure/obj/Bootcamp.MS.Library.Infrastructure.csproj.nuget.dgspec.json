@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj": {}
+    "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj": {
+    "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj",
+        "projectUniqueName": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj",
         "projectName": "Bootcamp.MS.Library.Domain",
-        "projectPath": "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj",
+        "projectPath": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj",
         "packagesPath": "C:\\Users\\cesar.ruiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\obj\\",
+        "outputPath": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj": {
+    "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj",
         "projectName": "Bootcamp.MS.Library.Infrastructure",
-        "projectPath": "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj",
+        "projectPath": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\cesar.ruiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\obj\\",
+        "outputPath": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj": {
-                "projectPath": "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj"
+              "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj": {
+                "projectPath": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Domain\\Bootcamp.MS.Library.Domain.csproj"
               }
             }
           }

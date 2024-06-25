@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WWsXP6afIlt0uv+d6Gi9OAWfboeEeLkccggbrO3peg70doOyXMvxi9/H6xW3+xcJTyrwGqBLtD8W1ztn9m61MA==",
+  "dgSpecHash": "xZNPBCKBLRfUw2Sl/pg6FVh/JU0IA3IHsaf6aHxyuOqk9R799zK6VyZ6YucnvmGo2Ca89yixiw15YPHdclw8lw==",
   "success": true,
-  "projectFilePath": "C:\\Bootcamp\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj",
+  "projectFilePath": "C:\\Bootcamp githun\\BootCamp.MS.Library\\Bootcamp.MS.Library.Infrastructure\\Bootcamp.MS.Library.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar.ruiz\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\cesar.ruiz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
